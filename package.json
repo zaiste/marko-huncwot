@@ -1,0 +1,27 @@
+{
+  "name": "marko-huncwot",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "description": "Marko with Huncwot example",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaiste/marko-huncwot.git"
+  },
+  "keywords": [
+    "marko",
+    "huncwot"
+  ],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/zaiste/marko-huncwot/issues"
+  },
+  "homepage": "https://github.com/zaiste/marko-huncwot#readme",
+  "dependencies": {
+    "huncwot": "^0.3.1",
+    "marko": "^4.2.8"
+  }
+}
